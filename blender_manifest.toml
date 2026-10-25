@@ -1,0 +1,23 @@
+schema_version = "1.0.0"
+id = "pynkp_smoothing_groups"
+version = "1.0.0"
+name = "pynk_p Smoothing Groups"
+tagline = "30 smoothing groups and group-driven subdivision"
+maintainer = "pynk_p"
+type = "add-on"
+tags = ["Mesh", "Modeling"]
+blender_version_min = "5.2.3"
+license = ["SPDX:GPL-3.0-or-later"]
+website = "https://github.com/PynkP/pynk_p_smoothing_groups"
+
+[build]
+paths_exclude_pattern = [
+  "__pycache__/",
+  "/.git/",
+  "/.gitignore",
+  "/*.zip",
+  "/*.blend",
+  "/*.blend1",
+  "/developer_tests/",
+  "/TEST_RESULTS.json",
+]
