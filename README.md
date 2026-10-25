@@ -10,6 +10,8 @@ The UI appears in the 3D Viewport Sidebar (`N` panel) under the **`pynk_p`** tab
 
 > 한국어 문서는 [README_KO.md](README_KO.md)를 참고하세요.
 
+### 📦 [Download Latest Release (`pynkp_smoothing_groups-1.0.0.zip`)](https://github.com/PynkP/pynk_p_smoothing_groups/releases/latest)
+
 ---
 
 ## Features
