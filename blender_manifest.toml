@@ -1,6 +1,6 @@
 schema_version = "1.0.0"
 id = "pynkp_smoothing_groups"
-version = "1.0.0"
+version = "1.0.1"
 name = "pynk_p Smoothing Groups"
 tagline = "30 smoothing groups and group-driven subdivision"
 maintainer = "pynk_p"
