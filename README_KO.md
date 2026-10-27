@@ -1,4 +1,4 @@
-# pynk_p Smoothing Groups — 1.0.0
+# pynk_p Smoothing Groups — 1.0.1
 
 Created by pynk_p
 
@@ -8,7 +8,7 @@ Blender **5.2.3 LTS**용 애드온. UI는 영어이며 3D Viewport 사이드바�
 - `Smoothing Groups`
 - `Subdivision By Smoothing Groups`
 
-### 📦 [최신 버전 다운로드 (`pynkp_smoothing_groups-1.0.0.zip`)](https://github.com/PynkP/pynk_p_smoothing_groups/releases/latest)
+### 📦 [최신 버전 다운로드 (`pynkp_smoothing_groups-1.0.1.zip`)](https://github.com/PynkP/pynk_p_smoothing_groups/releases/latest)
 
 ## 설치
 
